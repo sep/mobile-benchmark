@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="btnRun_text">Run Prime Benchmark</string>
+	<string name="app_name">Benchmark</string>
+</resources>
